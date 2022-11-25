@@ -1,20 +1,17 @@
 body{
     background-color: black;
-}
-
-p{
     color: white;
 }
 
 article{
-    background-color: rgb(44, 43, 43);
+    background-color: rgb(246, 20, 20);
 }
-
-.resaltado{
+nav>ul>h2>li{
     color: yellow;
+
 }
 
-.titulo_del_blog{
+#titulo_del_blog{
     text-align: center;
     font-size: 3rem;
 }
